@@ -1,0 +1,39 @@
+body{
+    
+    color:black;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+
+}
+video{
+    width: 500px;
+    height: 390px;
+    float: left;
+    border-radius: 40px;
+    
+    
+    
+}
+H1{
+    border-style: solid;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+.about{
+    border-style: double;
+    border-radius:20px ;        
+    padding-left:5px ;
+    padding-bottom: 0%;
+    padding-top:10px ;
+     background-image: url("../Images/Harmony.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+
+}

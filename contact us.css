@@ -1,0 +1,19 @@
+
+ul{
+    border-style: solid;
+    border-radius: 20px;
+    background-color: rgb(197, 238, 170);
+}
+.logo img{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border-radius: 100%;}
+.icons img{
+    width: 250px;
+    height: 250px;
+    float: right;
+    padding:20px;
+    padding-right: 30px;
+    border-radius:50px;
+}
